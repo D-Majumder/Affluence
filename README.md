@@ -25,8 +25,8 @@ Affluence is a narrative-driven landing page where the story of wealth and growt
 ## Setup
 
 ```bash
-git clone https://github.com/D-Majumder/Affluence.git
-cd Affluence
+git clone https://github.com/D-Majumder/affluence.git
+cd affluence
 npm install
 npm run dev
 ```
